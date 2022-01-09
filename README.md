@@ -1,1 +1,1 @@
-# extenstion
+# digitalpanel.id extension
