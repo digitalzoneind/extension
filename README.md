@@ -1,6 +1,6 @@
 # digitalpanel.id extension
 
-                              															  TUTORIAL HOW TO USE ⬇ ⬇
+TUTORIAL HOW TO USE ⬇ ⬇
                              		   
 [![Alt text](https://user-images.githubusercontent.com/89301124/149406323-15b4afd2-7b96-4537-af30-9ca65a87c2e8.png)](https://www.youtube.com/watch?v=RdJoTVHNQLo)
 
